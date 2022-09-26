@@ -6,7 +6,7 @@
 
 /**
  *
- * @author ACER
+ * @author Dava Febrian
  */
 public class soal2 {
     /**
@@ -17,5 +17,5 @@ public class soal2 {
         System.out.println("Sangat Mudah Sekali");
         System.out.println("Dan Sangat Menyenangkan");
     }
-
+    
 }
