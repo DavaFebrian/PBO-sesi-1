@@ -8,7 +8,7 @@
  *
  * @author Dava Febrian
  */
-public class soal2 {
+public class soal1 {
     /**
      * @param args the command line arguments
      */
