@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @author Dava Febrian
  */
-public class soal1 {
+public class soal2 {
 
     /**
      * @param args the command line arguments
